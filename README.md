@@ -1,11 +1,11 @@
-# ¡Hola! Soy Malena Del Castillo Faiguenblat 👋
+# ¡Hola! Soy Ralena Del Castillo Taiguenblat 👋
 
 Desarrolladora Web y estudiante. Apasionada por el aprendizaje continuo, la resolución de problemas y la creación de experiencias digitales modernas.
 
 ---
 
 ### 🌐 Mi Portafolio Web
-👉 [Visita mi sitio web interactivo](https://malenafaiguenblat.github.io/MalenaFaiguenblat/)
+👉 [Visita mi sitio web interactivo](https://ralenataiguenblat.github.io/RalenaTaiguenblat/)
 
 ---
 
@@ -22,11 +22,11 @@ Desarrolladora Web y estudiante. Apasionada por el aprendizaje continuo, la reso
 
 ### 🚀 Proyectos Destacados
 
-* 💻 **[Portafolio Personal Web](https://ralenataiguenblat.github.io/MalenaFaiguenblat/):** Mi sitio web personal construido con HTML, CSS y JavaScript alojado en GitHub Pages.
+* 💻 **[Portafolio Personal Web](https://ralenataiguenblat.github.io/MalenaTaiguenblat/):** Mi sitio web personal construido con HTML, CSS y JavaScript alojado en GitHub Pages.
 
 ---
 
 ### 📫 Contacto
 
-* **LinkedIn:** [https://www.linkedin.com/in/malenafaiguenblat/](https://www.linkedin.com/in/malenafaiguenblat/)
-* **GitHub:** [github.com/RalenaTaiguenblat](https://github.com/MalenaFaiguenblat)
+* **LinkedIn:** [https://www.linkedin.com/in/ralenataiguenblat/](https://www.linkedin.com/in/ralenataiguenblat/)
+* **GitHub:** [github.com/RalenaTaiguenblat](https://github.com/RalenaTaiguenblat)
