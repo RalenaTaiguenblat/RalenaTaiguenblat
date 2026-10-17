@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Malena Del Castillo Faiguenblat 👋
 
-<!--
-**RalenaTaiguenblat/RalenaTaiguenblat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Web y estudiante. Apasionada por el aprendizaje continuo, la resolución de problemas y la creación de experiencias digitales modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Mi Portafolio Web
+👉 [Visita mi sitio web interactivo](https://malenafaiguenblat.github.io/MalenaFaiguenblat/)
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+* 💻 **[Portafolio Personal Web](https://ralenataiguenblat.github.io/MalenaFaiguenblat/):** Mi sitio web personal construido con HTML, CSS y JavaScript alojado en GitHub Pages.
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [https://www.linkedin.com/in/malenafaiguenblat/](https://www.linkedin.com/in/malenafaiguenblat/)
+* **GitHub:** [github.com/RalenaTaiguenblat](https://github.com/MalenaFaiguenblat)
